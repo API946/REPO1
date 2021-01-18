@@ -6,6 +6,8 @@ class Example
 		System.out.println("I am Aditya ");
 
 		System.out.println(" Veer");
+		
+		System.out.println(" I live in satara ");
 
 
 	}
